@@ -1,0 +1,10 @@
+syntax: glob
+images/lib/*.jpg
+*.asv
+*.mat
+images/lib_small/*.jpg
+log/*
+images/lib/*
+*.bak
+*.dep
+*.old
